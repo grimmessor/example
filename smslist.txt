@@ -1,0 +1,13 @@
+480 2018:02:13 Withdrawal: card *2306: 10 EUR, balance: 578 EUR
+480 2018:02:13 Transfer: card *2306: 100 EUR, balance: 678 EUR
+720 2018:02:15 *1488: -10 EUR, left: 450 EUR
+720 2018:02:28 *1488: +500 EUR, left: 950 EUR
+480 2019:02:13 Withdrawal: card *2306: 10 EUR, balance: 578 EUR
+480 2019:02:13 Transfer: card *2306: 100 EUR, balance: 678 EUR
+720 2019:02:15 *1488: -10 EUR, left: 450 EUR
+720 2019:02:28 *1488: +500 EUR, left: 950 EUR
+480 2020:05:01 Transfer: card *2306: 130 EUR, balance: 808 EUR
+720 2020:05:01 *1488: +300 EUR, left: 1250 EUR
+480 2020:05:02 Withdrawal: card *2306: 100 EUR, balance: 1708 EUR
+720 2020:05:15 *1488: -1000 EUR, left: 250 EUR
+720 2020:06:15 *1488: -1000 EUR, left: 2789 EUR
